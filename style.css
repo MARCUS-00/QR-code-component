@@ -1,0 +1,35 @@
+body{
+    background-color: hsl(212, 45%, 89%); 
+}
+.container{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 15px;
+    margin: auto;
+    width: 23.4375rem; 
+    text-align: center; 
+}
+
+.qr-code{
+    width: 21.4375rem;
+    border-radius: 9px;
+    margin: 15px  auto;
+}
+
+.first-line{
+    font-family: 'Outfit', sans-serif;
+    color: hsl(218, 44%, 22%);
+    width: 19.4375rem;
+    margin: 5px auto;
+    font-size: 26px;
+    font-weight:700;    
+}
+
+.second-line{
+    font-family: 'Outfit', sans-serif;
+    color: hsl(220, 15%, 55%);
+    font-weight:400; 
+    font-size:19px;
+    width: 19.4375rem;
+    margin: 15px  auto 0 auto;
+    padding-bottom: 50px;
+}
