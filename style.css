@@ -6,8 +6,6 @@ body{
     justify-content: center; 
 }
 
-.attribution { font-size: 11px; text-align: center; position: absolute; left: 0; right: 0; bottom: 10px; }
-.attribution a { color: hsl(228, 45%, 44%); }
 
 .container{
     background-color: hsl(0, 0%, 100%);
@@ -41,3 +39,7 @@ body{
     margin: 15px  auto 0 auto;
     padding-bottom: 50px;
 }
+
+
+.attribution { font-size: 11px; text-align: center; position: absolute; left: 0; right: 0; bottom: 10px; }
+.attribution a { color: hsl(228, 45%, 44%); }
