@@ -38,5 +38,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Website - work in progress
 - Frontend Mentor - [ @marcus-00 ] (https://www.frontendmentor.io/profile/marcus-00)
 - Twitter - [ @manojkumar_07_ ] (https://twitter.com/manojkumar_07_)
--Instagram - [ @manoj._.kumar_07] (https://www.instagram.com/manoj._.kumar_07/)
+- Instagram - [ @manoj._.kumar_07] (https://www.instagram.com/manoj._.kumar_07/)
 
